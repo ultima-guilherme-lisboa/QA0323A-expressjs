@@ -1,0 +1,1 @@
+{"produtos":[{"id":1,"nome":"Camisa Ultimac 2","preco:":10},{"id":2,"nome":"Tenis Alterado","preco:":7009999}],"frete":{"gratis":{"distancia-max":100},"tarifa-1":{"distancia-max":200,"preco":0.05},"tarifa-2":{"distancia-max":500,"preco":0.1}}}
